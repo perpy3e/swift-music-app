@@ -7,6 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		560AB17D2AE9698E00A045B2 /* comet.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB16D2AE9698800A045B2 /* comet.mp4 */; };
+		560AB17E2AE9698E00A045B2 /* happy end.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB16E2AE9698900A045B2 /* happy end.mp4 */; };
+		560AB17F2AE9698E00A045B2 /* hedemo ne-yo.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB16F2AE9698900A045B2 /* hedemo ne-yo.mp4 */; };
+		560AB1802AE9698E00A045B2 /* shunrai.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB1702AE9698900A045B2 /* shunrai.mp4 */; };
+		560AB1812AE9698E00A045B2 /* tracing that dream.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB1712AE9698A00A045B2 /* tracing that dream.mp4 */; };
+		560AB1822AE9698E00A045B2 /* lemon.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB1722AE9698A00A045B2 /* lemon.mp4 */; };
+		560AB1832AE9698E00A045B2 /* kick back.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB1732AE9698B00A045B2 /* kick back.mp4 */; };
+		560AB1842AE9698E00A045B2 /* phantom thief.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB1742AE9698B00A045B2 /* phantom thief.mp4 */; };
+		560AB1852AE9698E00A045B2 /* kiiro.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB1752AE9698B00A045B2 /* kiiro.mp4 */; };
+		560AB1862AE9698E00A045B2 /* probably.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB1762AE9698C00A045B2 /* probably.mp4 */; };
+		560AB1872AE9698E00A045B2 /* kaerou.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB1772AE9698C00A045B2 /* kaerou.mp4 */; };
+		560AB1882AE9698E00A045B2 /* monster.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB1782AE9698C00A045B2 /* monster.mp4 */; };
+		560AB1892AE9698E00A045B2 /* spinning globe.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB1792AE9698D00A045B2 /* spinning globe.mp4 */; };
+		560AB18A2AE9698E00A045B2 /* ending.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB17A2AE9698D00A045B2 /* ending.mp4 */; };
+		560AB18B2AE9698E00A045B2 /* garden.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB17B2AE9698D00A045B2 /* garden.mp4 */; };
+		560AB18C2AE9698E00A045B2 /* kirari.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = 560AB17C2AE9698E00A045B2 /* kirari.mp4 */; };
+		560AB1922AE9999C00A045B2 /* start.swift in Sources */ = {isa = PBXBuildFile; fileRef = 560AB1912AE9999C00A045B2 /* start.swift */; };
 		56AAEE522AE9225900F5BE3C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AAEE512AE9225900F5BE3C /* AppDelegate.swift */; };
 		56AAEE542AE9225900F5BE3C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AAEE532AE9225900F5BE3C /* SceneDelegate.swift */; };
 		56AAEE562AE9225900F5BE3C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AAEE552AE9225900F5BE3C /* ViewController.swift */; };
@@ -16,6 +33,11 @@
 		56AAEE692AE9225B00F5BE3C /* musicAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AAEE682AE9225B00F5BE3C /* musicAppTests.swift */; };
 		56AAEE732AE9225B00F5BE3C /* musicAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AAEE722AE9225B00F5BE3C /* musicAppUITests.swift */; };
 		56AAEE752AE9225B00F5BE3C /* musicAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AAEE742AE9225B00F5BE3C /* musicAppUITestsLaunchTests.swift */; };
+		56AAEE822AE92D0F00F5BE3C /* tbvc.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AAEE812AE92D0F00F5BE3C /* tbvc.swift */; };
+		56AAEE842AE92D3000F5BE3C /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AAEE832AE92D3000F5BE3C /* TableViewController.swift */; };
+		56AAEE862AE92DB300F5BE3C /* artistList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 56AAEE852AE92DB300F5BE3C /* artistList.plist */; };
+		56AAEE882AE92E0800F5BE3C /* ArtistURL.plist in Resources */ = {isa = PBXBuildFile; fileRef = 56AAEE872AE92E0800F5BE3C /* ArtistURL.plist */; };
+		56AAEE8A2AE9312E00F5BE3C /* loading.swift in Sources */ = {isa = PBXBuildFile; fileRef = 56AAEE892AE9312E00F5BE3C /* loading.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +58,23 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		560AB16D2AE9698800A045B2 /* comet.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = comet.mp4; sourceTree = "<group>"; };
+		560AB16E2AE9698900A045B2 /* happy end.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "happy end.mp4"; sourceTree = "<group>"; };
+		560AB16F2AE9698900A045B2 /* hedemo ne-yo.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "hedemo ne-yo.mp4"; sourceTree = "<group>"; };
+		560AB1702AE9698900A045B2 /* shunrai.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = shunrai.mp4; sourceTree = "<group>"; };
+		560AB1712AE9698A00A045B2 /* tracing that dream.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "tracing that dream.mp4"; sourceTree = "<group>"; };
+		560AB1722AE9698A00A045B2 /* lemon.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = lemon.mp4; sourceTree = "<group>"; };
+		560AB1732AE9698B00A045B2 /* kick back.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "kick back.mp4"; sourceTree = "<group>"; };
+		560AB1742AE9698B00A045B2 /* phantom thief.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "phantom thief.mp4"; sourceTree = "<group>"; };
+		560AB1752AE9698B00A045B2 /* kiiro.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = kiiro.mp4; sourceTree = "<group>"; };
+		560AB1762AE9698C00A045B2 /* probably.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = probably.mp4; sourceTree = "<group>"; };
+		560AB1772AE9698C00A045B2 /* kaerou.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = kaerou.mp4; sourceTree = "<group>"; };
+		560AB1782AE9698C00A045B2 /* monster.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = monster.mp4; sourceTree = "<group>"; };
+		560AB1792AE9698D00A045B2 /* spinning globe.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "spinning globe.mp4"; sourceTree = "<group>"; };
+		560AB17A2AE9698D00A045B2 /* ending.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = ending.mp4; sourceTree = "<group>"; };
+		560AB17B2AE9698D00A045B2 /* garden.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = garden.mp4; sourceTree = "<group>"; };
+		560AB17C2AE9698E00A045B2 /* kirari.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = kirari.mp4; sourceTree = "<group>"; };
+		560AB1912AE9999C00A045B2 /* start.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = start.swift; sourceTree = "<group>"; };
 		56AAEE4E2AE9225900F5BE3C /* musicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = musicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		56AAEE512AE9225900F5BE3C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		56AAEE532AE9225900F5BE3C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +88,11 @@
 		56AAEE6E2AE9225B00F5BE3C /* musicAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = musicAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		56AAEE722AE9225B00F5BE3C /* musicAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = musicAppUITests.swift; sourceTree = "<group>"; };
 		56AAEE742AE9225B00F5BE3C /* musicAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = musicAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		56AAEE812AE92D0F00F5BE3C /* tbvc.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tbvc.swift; sourceTree = "<group>"; };
+		56AAEE832AE92D3000F5BE3C /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		56AAEE852AE92DB300F5BE3C /* artistList.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = artistList.plist; sourceTree = "<group>"; };
+		56AAEE872AE92E0800F5BE3C /* ArtistURL.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = ArtistURL.plist; sourceTree = "<group>"; };
+		56AAEE892AE9312E00F5BE3C /* loading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = loading.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +120,50 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		560AB18D2AE9699300A045B2 /* yoasobi */ = {
+			isa = PBXGroup;
+			children = (
+				560AB16D2AE9698800A045B2 /* comet.mp4 */,
+				560AB1782AE9698C00A045B2 /* monster.mp4 */,
+				560AB1762AE9698C00A045B2 /* probably.mp4 */,
+				560AB1712AE9698A00A045B2 /* tracing that dream.mp4 */,
+			);
+			path = yoasobi;
+			sourceTree = "<group>";
+		};
+		560AB18E2AE969AD00A045B2 /* kaze */ = {
+			isa = PBXGroup;
+			children = (
+				560AB17B2AE9698D00A045B2 /* garden.mp4 */,
+				560AB1772AE9698C00A045B2 /* kaerou.mp4 */,
+				560AB16F2AE9698900A045B2 /* hedemo ne-yo.mp4 */,
+				560AB17C2AE9698E00A045B2 /* kirari.mp4 */,
+			);
+			path = kaze;
+			sourceTree = "<group>";
+		};
+		560AB18F2AE969C300A045B2 /* backnumber */ = {
+			isa = PBXGroup;
+			children = (
+				560AB17A2AE9698D00A045B2 /* ending.mp4 */,
+				560AB1742AE9698B00A045B2 /* phantom thief.mp4 */,
+				560AB1752AE9698B00A045B2 /* kiiro.mp4 */,
+				560AB16E2AE9698900A045B2 /* happy end.mp4 */,
+			);
+			path = backnumber;
+			sourceTree = "<group>";
+		};
+		560AB1902AE969CA00A045B2 /* hachi */ = {
+			isa = PBXGroup;
+			children = (
+				560AB1722AE9698A00A045B2 /* lemon.mp4 */,
+				560AB1702AE9698900A045B2 /* shunrai.mp4 */,
+				560AB1732AE9698B00A045B2 /* kick back.mp4 */,
+				560AB1792AE9698D00A045B2 /* spinning globe.mp4 */,
+			);
+			path = hachi;
+			sourceTree = "<group>";
+		};
 		56AAEE452AE9225900F5BE3C = {
 			isa = PBXGroup;
 			children = (
@@ -101,11 +189,21 @@
 			children = (
 				56AAEE512AE9225900F5BE3C /* AppDelegate.swift */,
 				56AAEE532AE9225900F5BE3C /* SceneDelegate.swift */,
+				560AB1912AE9999C00A045B2 /* start.swift */,
 				56AAEE552AE9225900F5BE3C /* ViewController.swift */,
 				56AAEE572AE9225900F5BE3C /* Main.storyboard */,
+				56AAEE832AE92D3000F5BE3C /* TableViewController.swift */,
+				56AAEE892AE9312E00F5BE3C /* loading.swift */,
+				56AAEE812AE92D0F00F5BE3C /* tbvc.swift */,
 				56AAEE5A2AE9225B00F5BE3C /* Assets.xcassets */,
 				56AAEE5C2AE9225B00F5BE3C /* LaunchScreen.storyboard */,
 				56AAEE5F2AE9225B00F5BE3C /* Info.plist */,
+				56AAEE852AE92DB300F5BE3C /* artistList.plist */,
+				56AAEE872AE92E0800F5BE3C /* ArtistURL.plist */,
+				560AB18D2AE9699300A045B2 /* yoasobi */,
+				560AB18E2AE969AD00A045B2 /* kaze */,
+				560AB18F2AE969C300A045B2 /* backnumber */,
+				560AB1902AE969CA00A045B2 /* hachi */,
 			);
 			path = musicApp;
 			sourceTree = "<group>";
@@ -231,9 +329,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				560AB1882AE9698E00A045B2 /* monster.mp4 in Resources */,
+				560AB1872AE9698E00A045B2 /* kaerou.mp4 in Resources */,
+				560AB18B2AE9698E00A045B2 /* garden.mp4 in Resources */,
+				560AB1822AE9698E00A045B2 /* lemon.mp4 in Resources */,
+				560AB17D2AE9698E00A045B2 /* comet.mp4 in Resources */,
+				560AB1852AE9698E00A045B2 /* kiiro.mp4 in Resources */,
+				560AB1892AE9698E00A045B2 /* spinning globe.mp4 in Resources */,
+				560AB17E2AE9698E00A045B2 /* happy end.mp4 in Resources */,
+				560AB17F2AE9698E00A045B2 /* hedemo ne-yo.mp4 in Resources */,
 				56AAEE5E2AE9225B00F5BE3C /* LaunchScreen.storyboard in Resources */,
+				560AB1812AE9698E00A045B2 /* tracing that dream.mp4 in Resources */,
+				560AB1832AE9698E00A045B2 /* kick back.mp4 in Resources */,
+				560AB1842AE9698E00A045B2 /* phantom thief.mp4 in Resources */,
+				56AAEE882AE92E0800F5BE3C /* ArtistURL.plist in Resources */,
+				560AB18A2AE9698E00A045B2 /* ending.mp4 in Resources */,
+				56AAEE862AE92DB300F5BE3C /* artistList.plist in Resources */,
+				560AB18C2AE9698E00A045B2 /* kirari.mp4 in Resources */,
 				56AAEE5B2AE9225B00F5BE3C /* Assets.xcassets in Resources */,
+				560AB1802AE9698E00A045B2 /* shunrai.mp4 in Resources */,
 				56AAEE592AE9225900F5BE3C /* Main.storyboard in Resources */,
+				560AB1862AE9698E00A045B2 /* probably.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,8 +374,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				560AB1922AE9999C00A045B2 /* start.swift in Sources */,
+				56AAEE822AE92D0F00F5BE3C /* tbvc.swift in Sources */,
 				56AAEE562AE9225900F5BE3C /* ViewController.swift in Sources */,
+				56AAEE8A2AE9312E00F5BE3C /* loading.swift in Sources */,
 				56AAEE522AE9225900F5BE3C /* AppDelegate.swift in Sources */,
+				56AAEE842AE92D3000F5BE3C /* TableViewController.swift in Sources */,
 				56AAEE542AE9225900F5BE3C /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
